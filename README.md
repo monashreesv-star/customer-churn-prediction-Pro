@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Industry-Oriented Machine Learning System for Customer Churn Prediction
 ### RISE Internship — Machine Learning & AI | Project 1
 
@@ -211,3 +212,7 @@ python src/predict.py --input data/Telco-Customer-Churn.csv --threshold 0.70 --o
 jupyter notebook notebooks/customer_churn_prediction.ipynb
 ```
 *Browse and execute the full end-to-end interactive notebook.*
+=======
+# customer-churn-prediction-Pro
+An end-to-end machine learning project that predicts customer churn using data analysis, feature engineering, and predictive modeling.
+>>>>>>> 75a33447a48c0f0d5b2257ecd880ea0424e1457c
